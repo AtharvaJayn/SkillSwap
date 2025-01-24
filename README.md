@@ -33,10 +33,6 @@ We welcome contributions to make SkillSwap even better! If you’d like to repor
 1. Fork the repository.
 2. Create a new branch for your changes.
 3. Submit a pull request with a detailed description of your contribution.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 > **SkillSwap: Building connections, one project at a time.**
